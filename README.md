@@ -55,24 +55,27 @@ Las reglas que gobiernan el sistema son:
 El programa detecta las siguientes acciones (inputs): el movimiento del mouse en Y, los clics. Las interpreta (procesos) mediante condiciones, variables o cálculos y entrega una respuesta (output) visible en el sketch: cambia el contenido visual en la pantalla o cambia el color y tamaño del borde del cuadrado.  
 
 ## Referentes  
-Corner Eyes de Margaret Keane (2004)
-Esta obra de la artista Margaret Keane (que tuvo conflictos sobre la autoría de sus obras con su marido) muestra a tres mujeres con los ojos grandes mirando fijamente e incomodando al espectador. Nos basamos en esa incomodidad y presión que causan las miradas cuando estas están fijadas en nosotros.
+#### Corner Eyes de Margaret Keane (2004)  
+Esta obra de la artista Margaret Keane (que tuvo conflictos sobre la autoría de sus obras con su marido)  muestra a tres mujeres con los ojos grandes mirando fijamente e incomodando al espectador. Nos basamos en esa incomodidad y presión que causan las miradas cuando estas están fijadas en nosotros.  
 
-corner eyes
+![corner eyes](https://www.keane-eyes.com/wp-content/uploads/2014/09/Corner-Eyes02-copy.jpeg)   
 
-Discurso película Barbie (2023)
-En este discurso dicho por la actriz America Ferrera se visibiliza todas las cosas que se le exigen a una mujer, sobre lo contradictorio y difícil que es siquiera intentar seguir los estándares impuestos por la sociedad.
+### Discurso película Barbie (2023)  
+En este discurso dicho por la actriz America Ferrera se visibiliza todas las cosas que se le exigen a una mujer, sobre lo contradictorio y difícil que es siquiera intentar seguir los estándares impuestos por la sociedad.  
 
-Discurso Barbie
+![Discurso Barbie](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwCsnEQ3rsLDcF-zEyRYjwtSKs_Z6ersveWw&s)  
 
-La serie "Propped" de Jenny Saville (1992)
-La artista británica es conocida por sus enormes pinturas al óleo de cuerpos femeninos que escapan al canon de extrema delgadez. En "Propped" y otras obras, desafía la mirada masculina al mostrar la piel con pliegues, marcas de celulitis y proporciones reales, celebrando el cuerpo tal y como es.
 
-Propped
+### La serie "Propped" de Jenny Saville (1992)  
+La artista británica es conocida por sus enormes pinturas al óleo de cuerpos femeninos que escapan al canon de extrema delgadez. En "Propped" y otras obras, desafía la mirada masculina al mostrar la piel con pliegues, marcas de celulitis y proporciones reales, celebrando el cuerpo tal y como es.  
 
-"Terror of Beauty" de Sarah Amrani
-Su obra critica cómo los filtros y las calculadoras de belleza online, basados en cánones occidentales, presionan a las mujeres a modificar sus rostros, borrando su identidad y transformando el cuidado personal en una batalla constante por una perfección inalcanzable.
-Terror of Beauty
+![Propped](https://miro.medium.com/0*mgCLMtGMiNAHAGNi)  
+
+
+### "Terror of Beauty" de Sarah Amrani  
+Su obra critica cómo los filtros y las calculadoras de belleza online, basados en cánones occidentales, presionan a las mujeres a modificar sus rostros, borrando su identidad y transformando el cuidado personal en una batalla constante por una perfección inalcanzable.  
+![Terror of Beauty](https://static1.squarespace.com/static/5702ab9d746fb9634796c9f9/5702ad93b09f95bfee70b342/6746a1443cf669360434e10e/1752386795893/Strategy+of+Beautification+2018+C+Sarah+Amrani.jpeg?format=1500w)  
+
 
 ## Diagrama de flujo  
 ![Diagrama de flujo](https://github.com/Josefina130/solemne2/blob/main/Diagrama%20de%20flujo.png)  
