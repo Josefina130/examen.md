@@ -4,10 +4,10 @@
 ### Autoras: Dafne Hernandez, Josefina Puña  
 ## Descripción del proyecto:  
 ### ¿Qué es?  
-Es un sketch hecho en P5.js que tiene como objetivo visibilizar y reflexionar sobre el trato que reciben las mujeres en cuanto a la estética y los estándares de belleza impuestos por la sociedad, donde se ve a las mujeres como un objeto para el deleite de los hombres. A través de elementos visuales e interactivos, se busca representar la presión constante que existe sobre la apariencia femenina, donde se espera que las mujeres mantengan una imagen “perfecta” e inalcanzable para ser aceptadas socialmente. Esta exigencia crea inseguridades, frustración y la sensación de no ser suficientes, ya que los modelos de belleza suelen ser irreales e imposibles de alcanzar. El sketch pone en evidencia la constante presión estética que viven día a día las mujres, influyendo en su autoestima y en la percepción que tienen de sí mismas. De esta forma, el proyecto utiliza el lenguaje visual y la programación creativa para transformar una problemática de género en una experiencia interactiva y reflexiva.  
+Es un sketch hecho en P5.js que tiene como objetivo visibilizar y reflexionar sobre el trato que reciben las mujeres en cuanto a la estética y los estándares de belleza impuestos por la sociedad, donde se ve a las mujeres como un objeto para el deleite de los hombres (Male Gaze), reduciendolas a un objeto sexual en vez de ser vistas como personas con profundidad psicologica. A través de elementos visuales e interactivos, se busca representar la presión constante que existe sobre la apariencia femenina, donde se espera que las mujeres mantengan una imagen “perfecta” e inalcanzable para ser aceptadas socialmente. Esta exigencia crea inseguridades, frustración y la sensación de no ser suficientes, ya que los modelos de belleza suelen ser irreales e imposibles de alcanzar. El sketch pone en evidencia la constante presión estética que viven día a día las mujeres, influyendo en su autoestima y en la percepción que tienen de sí mismas. De esta forma, el proyecto utiliza el lenguaje visual y la programación creativa para transformar una problemática de género en una experiencia interactiva y reflexiva.  
 
 ### ¿Qué se ve en pantalla?  
-En el sketch que se regula al tamaño de la ventana se puede apreciar principalmente un mueble con una televisión antigua, e imágenes de manos masculinas a su alrededor, la televisión muestra distintas imágenes en su pantalla,.  
+En el sketch que se regula al tamaño de la ventana se puede apreciar principalmente un mueble con una televisión antigua, e imágenes de manos masculinas a su alrededor, la televisión muestra distintas imágenes en su pantalla, la primera es  la estatica, seguida de las rayas verticales que aparecen cuando una televisión no tiene señal, y por último aparece un dibujo de una mujer que parece ser .  
 
 ### ¿Qué elementos visuales aparecen?  
 Principalmente círculos y textos, también se pueden apreciar imágenes, diversas figuras geométricas (elipses, triángulos y cuadrados) y distintos colores.  
@@ -55,10 +55,10 @@ Las reglas que gobiernan el sistema son:
 El programa detecta las siguientes acciones (inputs): el movimiento del mouse en Y, los clics. Las interpreta (procesos) mediante condiciones, variables o cálculos y entrega una respuesta (output) visible en el sketch: cambia el contenido visual en la pantalla o cambia el color y tamaño del borde del cuadrado.  
 
 ## Referentes  
-#### Corner Eyes de Margaret Keane (2004)  
-Esta obra de la artista Margaret Keane (que tuvo conflictos sobre la autoría de sus obras con su marido)  muestra a tres mujeres con los ojos grandes mirando fijamente e incomodando al espectador. Nos basamos en esa incomodidad y presión que causan las miradas cuando estas están fijadas en nosotros.  
+#### "Do Women Have To Be Naked To Get Into the Met. Museum?" de Guerrilla Girls (1989)  
+La obra evidencia que mientras las mujeres artistas estaban excluidas de las galerías, sus cuerpos eran utilizados masivamente como meros objetos decorativos y sexuales para el disfrute visual de los hombres.
 
-![corner eyes](https://www.keane-eyes.com/wp-content/uploads/2014/09/Corner-Eyes02-copy.jpeg)   
+![Do Women Have To Be Naked To Get Into the Met. Museum?](https://artishockrevista.com/wp-content/uploads/2024/03/Guerrilla-Girls-Naked-1989.jpg)   
 
 ### Discurso película Barbie (2023)  
 En este discurso dicho por la actriz America Ferrera se visibiliza todas las cosas que se le exigen a una mujer, sobre lo contradictorio y difícil que es siquiera intentar seguir los estándares impuestos por la sociedad.  
@@ -67,14 +67,15 @@ En este discurso dicho por la actriz America Ferrera se visibiliza todas las cos
 
 
 ### La serie "Propped" de Jenny Saville (1992)  
-La artista británica es conocida por sus enormes pinturas al óleo de cuerpos femeninos que escapan al canon de extrema delgadez. En "Propped" y otras obras, desafía la mirada masculina al mostrar la piel con pliegues, marcas de celulitis y proporciones reales, celebrando el cuerpo tal y como es.  
+La artista británica es conocida por sus enormes pinturas al óleo de cuerpos femeninos que escapan al canon de extrema delgadez. En "Propped" y otras obras, desafía el Male gaze al mostrar la piel con pliegues, marcas de celulitis y proporciones reales, celebrando el cuerpo tal y como es.  
 
 ![Propped](https://miro.medium.com/0*mgCLMtGMiNAHAGNi)  
 
 
-### "Terror of Beauty" de Sarah Amrani  
-Su obra critica cómo los filtros y las calculadoras de belleza online, basados en cánones occidentales, presionan a las mujeres a modificar sus rostros, borrando su identidad y transformando el cuidado personal en una batalla constante por una perfección inalcanzable.  
-![Terror of Beauty](https://static1.squarespace.com/static/5702ab9d746fb9634796c9f9/5702ad93b09f95bfee70b342/6746a1443cf669360434e10e/1752386795893/Strategy+of+Beautification+2018+C+Sarah+Amrani.jpeg?format=1500w)  
+### John Berger / Formas de ver, Episodio 2 (1972)  
+John Berger afirma que muchas imágenes de mujeres en el arte occidental no las presentan como sujetos con autonomía, sino como objetos de observación y deseo."Los hombres actúan y las mujeres aparecen. Los hombres miran a las mujeres. Las mujeres se observan a sí mismas siendo observadas."  
+Berger crítica al poder, a las convenciones de la historia del arte y a la forma en que la cultura ha enseñado a hombres y mujeres a mirar y a mirarse.  
+[![Formas de ver, Episodio 2](https://img.youtube.com/vi/Qud_422WKZY/0.jpg)](https://www.youtube.com/watch?v=Qud_422WKZY)  
 
 
 ## Diagrama de flujo  
