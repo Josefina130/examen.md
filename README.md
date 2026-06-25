@@ -90,6 +90,7 @@ La artista británica es conocida por sus enormes pinturas al óleo de cuerpos f
 ### John Berger / Formas de ver, Episodio 2 (1972)  
 John Berger afirma que muchas imágenes de mujeres en el arte occidental no las presentan como sujetos con autonomía, sino como objetos de observación y deseo. "Los hombres actúan y las mujeres aparecen. Los hombres miran a las mujeres. Las mujeres se observan a sí mismas siendo observadas."  
 Berger crítica al poder, a las convenciones de la historia del arte y a la forma en que la cultura ha enseñado a hombres y mujeres a mirar y a mirarse.  
+
 [![Formas de ver, Episodio 2](https://img.youtube.com/vi/Qud_422WKZY/0.jpg)](https://www.youtube.com/watch?v=Qud_422WKZY)  
 
 
