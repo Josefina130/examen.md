@@ -11,10 +11,10 @@ A través de elementos visuales e interactivos, se busca representar la presión
 En el sketch que se regula al tamaño de la ventana se puede apreciar tres estados:  
 1. Instrucciones: Aquí se guia y se explica al usuario los pasos que tiene que seguir para tener la experiencia completa.
 2. Television: Se aprecia principalmente un mueble con una televisión antigua, la que muestra distintas imágenes en su pantalla, la primera es la estatica, seguida de las rayas verticales que aparecen cuando una televisión no tiene señal, y por último aparecen imágenes de mujeres atractivas para la mirada mascuina.
-3. Telefono:
+3. Telefono: Aparece un celular agarrado por una mano
 
 ### ¿Qué elementos visuales aparecen?  
-Principalmente círculos y textos, también se pueden apreciar imágenes, diversas figuras geométricas (elipses, triángulos y cuadrados) y distintos colores.  
+Principalmente imágenes y textos, también se pueden apreciar rectangulos y distintos colores.  
 
 ## Descripción conceptual  
 ### Idea central del proyecto y su relación con el sistema diseñado  
@@ -65,7 +65,7 @@ La obra evidencia que mientras las mujeres artistas estaban excluidas de las gal
 ![Do Women Have To Be Naked To Get Into the Met. Museum?](https://artishockrevista.com/wp-content/uploads/2024/03/Guerrilla-Girls-Naked-1989.jpg)   
 
 ### Discurso película Barbie (2023)  
-En este discurso dicho por la actriz America Ferrera se visibiliza todas las cosas que se le exigen a una mujer, sobre lo contradictorio y difícil que es siquiera intentar seguir los estándares impuestos por la sociedad.  
+En este discurso dicho por la actriz America Ferrera se visibiliza todas las cosas que se le exigen a una mujer, sobre lo contradictorio y difícil que es siquiera intentar seguir los estándares impuestos por la sociedad y sobre complacer a los hombres físicamente. "Se supone que debes mantenerte bonita para los hombres, pero no tanto como para tentarlos demasiado" 
 
 ![Discurso Barbie](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwCsnEQ3rsLDcF-zEyRYjwtSKs_Z6ersveWw&s)  
 
