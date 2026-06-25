@@ -18,19 +18,24 @@ Principalmente imágenes y textos, también se pueden apreciar rectangulos y dis
 
 ## Descripción conceptual  
 ### Idea central del proyecto y su relación con el sistema diseñado  
-Los estándares de belleza en mujeres son sumamente exigentes e imposibles de lograr, la sociedad ha construido ideales de apariencia que generan una constante presión sobre el cuerpo y la imagen femenina. En este proyecto, esa presión es representada visualmente a través de ojos que observan a la mujer en el centro e incomodan constantemente al espectador, simbolizando la sensación de estar siendo juzgada de manera permanente por la sociedad. La mirada funciona como una metáfora de la vigilancia y crítica continua hacia la apariencia femenina, generando incomodidad y tensión dentro de la experiencia interactiva. Además, se incorporan textos con mensajes explícitos y frases comunes que suelen imponerse a las mujeres respecto a su físico, evidenciando cómo estas opiniones y exigencias se encuentran normalizadas en la vida cotidiana.  
+Este sketch utiliza la televisión como símbolo de los medios de comunicación, que durante mucho tiempo han mostrado imágenes de mujeres desde una mirada centrada en la apariencia física. La primera parte, donde aparece la estática, representa la saturación de mensajes mediáticos que constantemente rodean a las personas. Luego, las barras de colores hacen referencia a las transmisiones televisivas y los sistemas de difusión audiovisual, haciendo referencia a los mecanismos mediante los cuales se producen y distribuyen estos discursos visuales.  
+
+La rápida sucesión de fotografías refleja el consumo acelerado de imágenes que ocurre tanto en la televisión como en las redes sociales. Debido a la velocidad con que aparecen, no hay tiempo para analizarlas críticamente, lo que ayuda a normalizar ciertos cuerpos y rasgos como ideales de belleza.  
+
+Desde la perspectiva del male gaze, nuestra obra evidencia cómo los medios convierten a las mujeres en imágenes para ser observadas y evaluadas, asociando su valor principalmente a su aspecto físico. Así, el sketch invita a reflexionar sobre cómo los medios influyen en la forma en que entendemos la belleza y cómo las mujeres perciben su propia imagen.  
 
 ### ¿Cuál es la regla de oro de tu sistema?  
-Al mantener presionado el mouse se cambia a otra imagen con el mismo trasfondo.  
+Al presionar el mouse en uno de los botones de la televisión, la imagen en la pantalla de la tele cambia, el primer clic lleva a las barras de colores, el segundo clic lleva a las fotos, y finalmente el tercero nos devuelve a la estática.  
 
 ### ¿Cómo se relaciona esta lógica con la problemática de género elegida?  
-El mantener presionado el mouse evoca la presión que se mantiene en las mujeres solamente por existir y no coincidir con los estandares de belleza dictados por la sociedad.  
+El presionar el mouse y cambiar de "canal" en la televisión esta relacinado con el deseo de las mujeres de querer escapar de los estandares de belleza y del male gaze, pero siempre encontrandose con otra situación similar y agobiante.  
 
 ## Input / Output y sistema  
 ### ¿Qué datos entran?  
-* El usuario mantiene presionado el mouse.  
-* Círculos, cuadrados y textos generados por la función random.  
-* El usuario mueve el mouse en Y.  
+* El usuario presiona el mouse.  
+* la estatica y las barras (franjas) generados por la función random.  
+* Fotos en loop.
+* Cambio de tamaño de ventana.  
   
 ### ¿Cómo se procesan y transforman?  
 El código detecta y transforma las acciones mediante:  
@@ -38,25 +43,29 @@ El código detecta y transforma las acciones mediante:
 * Condicionales.  
 * Loops.  
 * Rotaciónes.  
-* generacion random.  
-* mapeos.  
-* funciones propias.  
+* Generación random.  
+* Mapeos.  
+* Funciones propias.
+* Botones
+  
 ### ¿Qué respuesta visual producen?  
 En respuesta a las distintas interacciones del usuario se genera:  
 
-* La pantalla cambia en su totalidad (clic).  
-* El color y el tamaño del borde del cuadrado cambia según la posición Y del mouse.  
+* La pantalla de la tele cambia su contenido (clic).  
+* La pantalla visible cambia en su totalidad.
+* La estática y las franjas cambian al azar.  
 
 
 ## Pensamiento computacional    
 ### Reglas que gobiernan el sistema (inputs, procesos, outputs)  
 Las reglas que gobiernan el sistema son:  
 
-* Si el usuario presiona una tecla: Se añaden palabras.  
-* Si el usuario presiona el mouse: Se añade una nueva pantalla.  
-* Si mueve el mouse verticalmente: El cuadrado se agranda.  
+* Si el usuario presiona el mouse en el circulo de la tele: Se cambia la pantalla del televisor.  
+* Si el usuario presiona el botón "Continuar": Se cambia a la siguiente pantalla del proyecto.
+* Si el usuario agranda o achica la ventana del sketch: El sketch cambia de tamaño proporcionalmente.
+  
 ### Explicación del sistema de interactividad    
-El programa detecta las siguientes acciones (inputs): el movimiento del mouse en Y, los clics. Las interpreta (procesos) mediante condiciones, variables o cálculos y entrega una respuesta (output) visible en el sketch: cambia el contenido visual en la pantalla o cambia el color y tamaño del borde del cuadrado.  
+El programa detecta las siguientes acciones (inputs): los clics, los random, los mapeos, tamaño de la ventana, etc. Las interpreta (procesos) mediante condiciones, variables o cálculos y entrega una respuesta (output) visible en el sketch: cambia y adapta el contenido visual del televisor o de la pantalla.  
 
 ## Referentes  
 #### "Do Women Have To Be Naked To Get Into the Met. Museum?" de Guerrilla Girls (1989)  
