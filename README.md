@@ -10,7 +10,7 @@ A través de elementos visuales, sonoros e interactivos, buscamos representar la
 ### ¿Qué se ve en pantalla?  
 En el sketch que se regula al tamaño de la ventana se pueden apreciar tres estados:  
 1. Instrucciones: Aquí se guia y se explica al usuario los pasos que tiene que seguir para tener la experiencia completa.
-2. Televisión: Este es el estado de principal interacción. Se aprecia principalmente un mueble con una televisión antigua, la que muestra distintas imágenes en su pantalla, la primera es la estatica, seguida de las rayas verticales que aparecen cuando una televisión no tiene señal, y por último aparecen imágenes de mujeres atractivas para la mirada mascuina.
+2. Televisión: Este es el estado de principal interacción. Se aprecia principalmente un mueble con una televisión antigua, la que muestra distintas imágenes en su pantalla, la primera es la estatica, seguida de las rayas verticales que aparecen cuando una televisión no tiene señal, y por último aparecen imágenes de mujeres atractivas para la mirada mascuina. Cada una tiene un audio que tiene directa relación con lo que muestra la pantalla.  
 3. Telefono: Aparece un celular agarrado por una mano, con imágenes rectangulares de distintos tonos de piel, algunos con un tick y otros con una equis.
 
 ### ¿Qué elementos visuales aparecen?  
@@ -20,7 +20,7 @@ Principalmente imágenes y botones, también se pueden apreciar franjas, rectang
 ### Idea central del proyecto y su relación con el sistema diseñado  
 Este sketch utiliza la televisión como símbolo de los medios de comunicación, que durante mucho tiempo han mostrado imágenes de mujeres desde una mirada centrada en la apariencia física. La primera parte, donde aparece la estática, representa la saturación de mensajes mediáticos que constantemente rodean a las personas. Luego, las barras de colores hacen referencia a las transmisiones televisivas y los sistemas de difusión audiovisual, haciendo referencia a los mecanismos mediante los cuales se producen y distribuyen estos discursos visuales.  
 
-El rapido paso de fotografías refleja el consumo acelerado de imágenes que ocurre tanto en la televisión como en las redes sociales. Debido a la velocidad con que aparecen, no hay tiempo para analizarlas críticamente, lo que ayuda a normalizar ciertos cuerpos y rasgos como ideales de belleza.  
+El rapido paso de fotografías refleja el consumo acelerado de imágenes que ocurre tanto en la televisión como en las redes sociales. Debido a la velocidad con que aparecen, no hay tiempo para analizarlas críticamente, lo que normaliza ciertos cuerpos y rasgos como ideales de belleza.  
 
 La mano masculina sosteniendo un celular representa el uso de las redes sociales y otras plataformas, donde las personas están expuestas constantemente a imágenes e ideales de belleza. En la pantalla aparecen distintos tonos de piel, representendo una abstraccion del cuerpo femenino, algunos marcados con un tick y otros con una equis, evidenciando cómo ciertos rasgos físicos los hombres aceptan y valoran, mientras que otros los rechazan o consideran menos deseables.  
 
@@ -30,7 +30,7 @@ Desde la perspectiva del male gaze (mirada masculina), nuestra obra evidencia c�
 Al presionar el mouse en uno de los botones de la televisión, la imagen en la pantalla de la tele cambia, el primer clic lleva a las barras de colores, el segundo clic lleva a las fotos, y finalmente el tercero nos devuelve a la estática.  
 
 ### ¿Cómo se relaciona esta lógica con la problemática de género elegida?  
-El presionar el mouse y cambiar de "canal" en la televisión esta relacinado con el deseo de las mujeres de querer escapar de los estandares de belleza y del male gaze, pero siempre encontrandose con otra situación similar y agobiante.  
+El presionar el mouse y cambiar de "canal" en la televisión esta relacinado con el deseo de las mujeres de querer escapar de los estandares de belleza y del male gaze, pero siempre encontrandose con otra situación similar y agobiante. Finalmente es el hombre el que esta cambiando de "canal", representando que es él quién controla lo que la mujer cree de sí misma.   
 
 ## Input / Output y sistema  
 ### ¿Qué datos entran?  
