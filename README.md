@@ -98,7 +98,7 @@ Berger crítica al poder, a las convenciones de la historia del arte y a la form
 
 
 ## Diagrama de flujo  
-![Diagrama de flujo](https://github.com/Josefina130/solemne2/blob/main/Diagrama%20de%20flujo.png)  
+![Diagrama de flujo](https://github.com/Josefina130/examen.md/blob/506fda2c8c1642d625609efd2cb29657ef498e46/Copia%20de%20%20Diagrama%20de%20flujo.png)  
 [PDF Diagrama de flujo](https://github.com/Josefina130/solemne2/blob/main/_Diagrama%20de%20flujo.pdf)  
 
 
