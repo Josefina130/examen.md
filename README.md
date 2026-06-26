@@ -30,7 +30,7 @@ Desde la perspectiva del male gaze (mirada masculina), nuestra obra evidencia c�
 Al presionar el mouse en uno de los botones de la televisión, la imagen en la pantalla de la tele cambia, el primer clic lleva a las barras de colores, el segundo clic lleva a las fotos, y finalmente el tercero nos devuelve a la estática.  
 
 ### ¿Cómo se relaciona esta lógica con la problemática de género elegida?  
-El presionar el mouse y cambiar de "canal" en la televisión esta relacinado con el deseo de las mujeres de querer escapar de los estandares de belleza y del male gaze, pero siempre encontrandose con otra situación similar y agobiante. Finalmente es el hombre el que esta cambiando de "canal", representando que es él quién controla lo que la mujer cree de sí misma.   
+El presionar el mouse y cambiar de "canal" en la televisión esta relacinado con el deseo de las mujeres de querer escapar de los estandares de belleza y del male gaze, pero siempre encontrandose con otra situación similar y agobiante. Finalmente es el hombre el que esta cambiando de "canal", representando que es él quién controla lo que la mujer cree de sí misma.     
 
 ## Input / Output y sistema  
 ### ¿Qué datos entran?  
